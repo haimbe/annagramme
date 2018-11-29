@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Ingrid\IdeaProjects\MagiWorld\.idea\misc.xml" timestamp="1542789909350" />
+    <file path="C:\Users\Ingrid\IdeaProjects\MagiWorld\.idea\modules.xml" timestamp="1542789909465" />
+    <file path="C:\Users\Ingrid\IdeaProjects\MagiWorld\.idea\vcs.xml" timestamp="1542904571122" />
+    <file path="C:\Users\Ingrid\IdeaProjects\MagiWorld\.idea\workspace.xml" timestamp="1543308179667" />
+    <file path="C:\Users\Ingrid\IdeaProjects\MagiWorld\MagiWorld.iml" timestamp="1542789909218" />
+  </project-files>
+</conversion>
+

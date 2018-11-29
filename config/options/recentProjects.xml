@@ -1,0 +1,68 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects" />
+        <option value="$USER_HOME$/IdeaProjects/MagiWorld" />
+        <option value="$USER_HOME$/IdeaProjects/MyMenu-I" />
+        <option value="$USER_HOME$/IdeaProjects/HelloWorld" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543485135104" />
+              <option name="buildTimestamp" value="1539686132290" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/HelloWorld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541666833697" />
+              <option name="buildTimestamp" value="1539686120893" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/MagiWorld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543308179736" />
+              <option name="buildTimestamp" value="1539686117239" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/MyMenu-I">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542789908368" />
+              <option name="buildTimestamp" value="1539686101674" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>

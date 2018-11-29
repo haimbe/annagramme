@@ -1,0 +1,31 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="191" />
+    <location key="new project wizard.0.0.1920.1080" x="601" y="47" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="963" y="437" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="655" y="342" />
+    <location key="GitCloneDialog.1920.0.1680.1050" x="2425" y="423" />
+    <location key="NewModule_or_Project.wizard.1920.0.1680.1050" x="2337" y="157" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.1920.0.1680.1050" x="2464" y="397" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.1920.0.1680.1050" x="2531" y="250" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1680.1050" x="1920" y="0" />
+    <location key="refactoring.ChangeSignatureDialog.1920.0.1680.1050" x="2465" y="123" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="734" y="322" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="690" y="438" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="727" y="414" />
+    <location key="new project wizard.1920.0.1680.1050" x="2372" y="128" />
+    <location key="FileChooserDialogImpl.1920.0.1680.1050" x="2515" y="225" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1680.1050" x="2214" y="158" />
+    <location key="#Unnamed.1920.0.1680.1050" x="2406" y="143" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="614" y="116" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1920" height="285" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1920" height="285" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1920" height="285" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1920" height="285" />
+    <size key="GridCell.Tab.0.left.1920.0.1680.1050" width="1680" height="275" />
+    <size key="GridCell.Tab.0.center.1920.0.1680.1050" width="1680" height="275" />
+    <size key="GridCell.Tab.0.right.1920.0.1680.1050" width="1680" height="275" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1680.1050" width="1680" height="275" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1680.1050" width="1092" height="721" />
+  </component>
+</application>
